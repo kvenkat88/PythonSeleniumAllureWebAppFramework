@@ -1,0 +1,1063 @@
+{
+	"apptmt_info_data": {
+		"appointment_type_info_list": [{
+				"apptmt_type": "Medical",
+				"main_symptoms": "Medical Physical Examination",
+				"special_accommodations": "Wheelchair",
+				"services_needed": ["Office Visit - New Patient", "Sports physical", "DOT physical"],
+				"check_in_flow_symptoms": ["Chest Pain", "Cough", "Diarrhea", "Urinary problems"],
+				"apptmt_book_details": [{
+						"day": "Today",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:30am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "12:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "6:30pm"
+							}
+						]
+					},
+					{
+						"day": "Tomorrow",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "9:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:00pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "6:00pm"
+							}
+						]
+					},
+					{
+						"day": "Monday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "5:00pm"
+							}
+						]
+					},
+					{
+						"day": "Tuesday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "5:00pm"
+							}
+						]
+					},
+					{
+						"day": "Wednesday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "5:00pm"
+							}
+						]
+					},
+					{
+						"day": "Thursday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:30am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "3:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "7:00pm"
+							}
+						]
+					},
+					{
+						"day": "Friday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "9:30am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "4:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "8:00pm"
+							}
+						]
+					}
+				]
+			},
+			{
+				"apptmt_type": "Dental",
+				"main_symptoms": "Dental Physical Examination",
+				"special_accommodations": "Wheelchair",
+				"services_needed": ["Oral examination", "Cleanings", "Dental X-Ray", "Root canal treatment"],
+				"check_in_flow_symptoms": ["Toothache", "Tooth Decay", "Bad Breath", "Swelling around the tooth"],
+				"apptmt_book_details": [{
+						"day": "Today",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:30am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "12:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "6:30pm"
+							}
+						]
+					},
+					{
+						"day": "Tomorrow",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "9:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:00pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "6:00pm"
+							}
+						]
+					},
+					{
+						"day": "Monday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "5:00pm"
+							}
+						]
+					},
+					{
+						"day": "Tuesday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "5:00pm"
+							}
+						]
+					},
+					{
+						"day": "Wednesday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "5:00pm"
+							}
+						]
+					},
+					{
+						"day": "Thursday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:30am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "3:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "7:00pm"
+							}
+						]
+					},
+					{
+						"day": "Friday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "9:30am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "4:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "8:00pm"
+							}
+						]
+					}
+
+				]
+
+			},
+			{
+				"apptmt_type": "Vision",
+				"main_symptoms": "Vision Physical Examination",
+				"special_accommodations": "Wheelchair",
+				"services_needed": ["Complete eye examination", "Pediatric eye exam", "Management of ocular diseases", "Pink/Red eye"],
+				"check_in_flow_symptoms": [],
+				"apptmt_book_details": [{
+						"day": "Today",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:30am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "12:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "6:30pm"
+							}
+						]
+					},
+					{
+						"day": "Tomorrow",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "9:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:00pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "6:00pm"
+							}
+						]
+					},
+					{
+						"day": "Monday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "5:00pm"
+							}
+						]
+					},
+					{
+						"day": "Tuesday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "5:00pm"
+							}
+						]
+					},
+					{
+						"day": "Wednesday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "5:00pm"
+							}
+						]
+					},
+					{
+						"day": "Thursday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:30am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "3:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "7:00pm"
+							}
+						]
+					},
+					{
+						"day": "Friday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "9:30am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "4:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "8:00pm"
+							}
+						]
+					}
+				]
+			},
+			{
+				"apptmt_type": "Behavioral",
+				"main_symptoms": "Behavioral Physical Examination",
+				"special_accommodations": "Wheelchair",
+				"services_needed": ["Dialectical behavior therapy", "Cognitive therapy", "Individual counseling", "Addiction treatment"],
+				"check_in_flow_symptoms": [],
+				"apptmt_book_details": [{
+						"day": "Today",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:30am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "12:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "6:30pm"
+							}
+						]
+					},
+					{
+						"day": "Tomorrow",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "9:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:00pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "6:00pm"
+							}
+						]
+					},
+					{
+						"day": "Monday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "5:00pm"
+							}
+						]
+					},
+					{
+						"day": "Tuesday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "5:00pm"
+							}
+						]
+					},
+					{
+						"day": "Wednesday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "5:00pm"
+							}
+						]
+					},
+					{
+						"day": "Thursday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:30am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "3:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "7:00pm"
+							}
+						]
+					},
+					{
+						"day": "Friday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "9:30am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "4:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "8:00pm"
+							}
+						]
+					}
+				]
+			},
+			{
+				"apptmt_type": "Hearing",
+				"main_symptoms": "Hearing Physical Examination",
+				"special_accommodations": "Wheelchair",
+				"services_needed": ["Hearing screening and testing", "Audiometry", "Hearing aids", "Titinus treatment"],
+				"check_in_flow_symptoms": [],
+				"apptmt_book_details": [{
+						"day": "Today",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:30am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "12:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "6:30pm"
+							}
+						]
+					},
+					{
+						"day": "Tomorrow",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "9:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:00pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "6:00pm"
+							}
+						]
+					},
+					{
+						"day": "Monday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "5:00pm"
+							}
+						]
+					},
+					{
+						"day": "Tuesday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "5:00pm"
+							}
+						]
+					},
+					{
+						"day": "Wednesday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "5:00pm"
+							}
+						]
+					},
+					{
+						"day": "Thursday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:30am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "3:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "7:00pm"
+							}
+						]
+					},
+					{
+						"day": "Friday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "9:30am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "4:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "8:00pm"
+							}
+						]
+					}
+				]
+			},
+			{
+				"apptmt_type": "Vaccinations",
+				"main_symptoms": "Vaccination Physical Examination",
+				"special_accommodations": "Wheelchair",
+				"services_needed": ["Hepatitis A", "Measles", "Meningitis", "Chicken pox"],
+				"check_in_flow_symptoms": [],
+				"apptmt_book_details": [{
+						"day": "Today",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:30am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "12:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "6:30pm"
+							}
+						]
+					},
+					{
+						"day": "Tomorrow",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "9:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:00pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "6:00pm"
+							}
+						]
+					},
+					{
+						"day": "Monday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "5:00pm"
+							}
+						]
+					},
+					{
+						"day": "Tuesday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "5:00pm"
+							}
+						]
+					},
+					{
+						"day": "Wednesday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "5:00pm"
+							}
+						]
+					},
+					{
+						"day": "Thursday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:30am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "3:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "7:00pm"
+							}
+						]
+					},
+					{
+						"day": "Friday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "9:30am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "4:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "8:00pm"
+							}
+						]
+					}
+				]
+			},
+			{
+				"apptmt_type": "Lab Work",
+				"main_symptoms": "Lab Work Physical Examination",
+				"special_accommodations": "Wheelchair",
+				"services_needed": ["Blood sugar test", "HBA1C test", "Rapid strep test", "Urine protein test"],
+				"check_in_flow_symptoms": [],
+				"apptmt_book_details": [{
+						"day": "Today",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:30am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "12:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "6:30pm"
+							}
+						]
+					},
+					{
+						"day": "Tomorrow",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "9:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:00pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "6:00pm"
+							}
+						]
+					},
+					{
+						"day": "Monday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "5:00pm"
+							}
+						]
+					},
+					{
+						"day": "Tuesday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "5:00pm"
+							}
+						]
+					},
+					{
+						"day": "Wednesday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "5:00pm"
+							}
+						]
+					},
+					{
+						"day": "Thursday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:30am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "3:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "7:00pm"
+							}
+						]
+					},
+					{
+						"day": "Friday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "9:30am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "4:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "8:00pm"
+							}
+						]
+					}
+				]
+			},
+			{
+				"apptmt_type": "Health Classes",
+				"main_symptoms": "Health Classes Physical Examination",
+				"special_accommodations": "Wheelchair",
+				"services_needed": ["Nutrition classes", "Weight-loss programs", "Babysitting courses"],
+				"check_in_flow_symptoms": [],
+				"apptmt_book_details": [{
+						"day": "Today",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:30am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "12:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "6:30pm"
+							}
+						]
+					},
+					{
+						"day": "Tomorrow",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "9:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:00pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "6:00pm"
+							}
+						]
+					},
+					{
+						"day": "Monday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "5:00pm"
+							}
+						]
+					},
+					{
+						"day": "Tuesday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "5:00pm"
+							}
+						]
+					},
+					{
+						"day": "Wednesday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "5:00pm"
+							}
+						]
+					},
+					{
+						"day": "Thursday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:30am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "3:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "7:00pm"
+							}
+						]
+					},
+					{
+						"day": "Friday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "9:30am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "4:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "8:00pm"
+							}
+						]
+					}
+				]
+			},
+			{
+				"apptmt_type": "Health Questions",
+				"main_symptoms": "Health Questions Examination",
+				"special_accommodations": "Wheelchair",
+				"services_needed": ["Treatment plans", "Self-Care", "Health insurance"],
+				"check_in_flow_symptoms": [],
+				"apptmt_book_details": [{
+						"day": "Today",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:30am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "12:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "6:30pm"
+							}
+						]
+					},
+					{
+						"day": "Tomorrow",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "9:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:00pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "6:00pm"
+							}
+						]
+					},
+					{
+						"day": "Monday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "5:00pm"
+							}
+						]
+					},
+					{
+						"day": "Tuesday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "5:00pm"
+							}
+						]
+					},
+					{
+						"day": "Wednesday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:00am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "1:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "5:00pm"
+							}
+						]
+					},
+					{
+						"day": "Thursday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "8:30am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "3:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "7:00pm"
+							}
+						]
+					},
+					{
+						"day": "Friday",
+						"details": [{
+								"session": "Morning",
+								"time_slot": "9:30am"
+							}, {
+								"session": "Afternoon",
+								"time_slot": "2:30pm"
+							},
+							{
+								"session": "Evening",
+								"time_slot": "8:00pm"
+							}
+						]
+					}
+				]
+			}
+		]
+
+	},
+	"clinic_provider_details": {
+		"clinic_id" : "1233541",
+		"medical_center_name": "Irvine Health Center",
+		"medical_center_short_name": "Irvine Health",
+		"apptmt_types": ["Medical", "Dental", "Vision", "Behavioral", "Hearing", "Vaccinations", "Lab Work", "Health Classes", "Health Questions"],
+		"clinic_working_days": 7,
+		"zip_Code": "92619",
+		"max_distance": "25mi",
+		"center_operation_time": "Open today 9am - 6pm",
+		"Medical": {
+			"medical_provider_name": "Linda Jackson, MD"
+		},
+		"Dental": {
+			"medical_provider_name": "Tina McGrath, MD"
+		},
+		"Vision": {
+			"medical_provider_name": "Neil Johnson, MD"
+		},
+		"Behavioral": {
+			"medical_provider_name": "Wavell Hinds, MD"
+		},
+		"Hearing": {
+			"medical_provider_name": "Isabella Snape, MD"
+
+		},
+		"Vaccinations": {
+			"medical_provider_name": "Jessica Larson, BSN"
+		},
+		"Lab Work": {
+			"medical_provider_name": "Emily Hazzlewood, BSN"
+		},
+		"Health Classes": {
+			"medical_provider_name": "Mitchell Starc, HWC"
+		},
+		"Health Questions": {
+			"medical_provider_name": "Barry Cohen, MD, Phd"
+		}
+	}
+}

@@ -1,0 +1,67 @@
+{
+	"role": {
+		"registered": {
+			"physician": [{
+				"profile": {
+					"username": "yyyyy",
+					"password": "Test@123",
+					"first_name": "yyyyy",
+					"last_name": "xxxxx",
+					"dob": "09/09/1976",
+					"gender": "Male",
+					"country": "US",
+					"contact_no": "1234556678",
+					"comm_pref": "Text",
+					"email_id": "asddd@abc.com",
+					"address": {
+						"street": "12600 Hill Country Blvd",
+						"city": "Austin",
+						"apt_suite_bldg": "Suite 275",
+						"state": "TX",
+						"zip_code": "78738"
+					},
+					"photo_id": {
+						"id_type": "Driver's License",
+						"state": "TX",
+						"id_no": "A31195855"
+					},
+					"new_pwd": "Test@123",
+					"clinic_info":{
+						"clinic_name": "Sam Health Center"
+					}
+				}
+			}],
+
+			"super_admin": [{
+				"profile": {
+					"username": "xxxxx",
+					"password": "Test@123",
+					"first_name": "xxxxx",
+					"last_name": "yyyy",
+					"dob": "09/09/1978",
+					"gender": "Male",
+					"country": "US",
+					"contact_no": "3456789123",
+					"comm_pref": "Text",
+					"email_id": "asd@abc.com",
+					"address": {
+						"street": "",
+						"city": "",
+						"apt_suite_bldg": "",
+						"state": "",
+						"zip_code": ""
+					},
+					"photo_id": {
+						"id_type": "",
+						"state": "",
+						"id_no": ""
+					},
+					"new_pwd": "Test@123",
+					"clinic_info": {
+						"clinic_name": "Sam Health Center"
+					}
+				}
+			}]
+		}
+	}
+}

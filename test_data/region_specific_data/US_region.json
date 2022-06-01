@@ -1,0 +1,46 @@
+{
+	"state": {
+		"california": [{
+				"clinic_info": {
+					"partner_name": "xxx",
+					"partner_id": "12345",
+					"clinic_provider_full_name": "XXX Solutions",
+					"county": "irvine",
+					"area": "17875 Von Karman Avenue Building A, Suite 120",
+					"launch_url": "file:\\C:\\Patients"
+				}
+			},
+			{
+				"clinic_info": {
+					"partner_name": "xxx_rosslyn",
+					"partner_id": "12345",
+					"clinic_provider_full_name": "",
+					"county": "irvine",
+					"area": "",
+					"launch_url": "https://sample.url.com"
+				}
+			}
+		],
+		"illinois": [{
+				"clinic_info": {
+					"partner_name": "xxx",
+					"partner_id": "12345",
+					"clinic_provider_full_name": "XXXX Solutions",
+					"county": "irvine",
+					"area": "17875 Von Karman Avenue Building A, Suite 120",
+					"launch_url": "https://sample.url.com"
+				}
+			},
+			{
+				"clinic_info": {
+					"partner_name": "xxx_rosslyn",
+					"partner_id": "12345",
+					"clinic_provider_full_name": "",
+					"county": "",
+					"area": "",
+					"launch_url": "https://sample.url.com"
+				}
+			}
+		]
+	}
+}

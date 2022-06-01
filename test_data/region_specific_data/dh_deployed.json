@@ -1,0 +1,35 @@
+{
+	"deployed_geo": {
+		"US": {
+			"california": {
+					"clinic_provider_names": ["hps"]
+			}
+		},
+		"UAE": {
+			"federation": {
+					"clinic_provider_names": ["MINISTRY OF HEALTH & PREVENTION"]
+			},
+			"abu_dhabi": {
+				"clinic_provider_names": [""]
+			},
+			"ajman": {
+				"clinic_provider_names": [""]
+			},
+			"dubai": {
+				"clinic_provider_names": [""]
+			},
+			"fujairah": {
+				"clinic_provider_names": [""]
+			},
+			"khaimah": {
+				"clinic_provider_names": [""]
+			},
+			"sharjah": {
+				"clinic_provider_names": [""]
+			},
+			"quwain": {
+				"clinic_provider_names": [""]
+			}
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+  "host": null,
+  "port": 4444,
+  "newSessionWaitTimeout": -1,
+  "servlets" : [],
+  "withoutServlets": [],
+  "prioritizer": null,
+  "custom": {},
+  "capabilityMatcher": "org.openqa.grid.internal.utils.DefaultCapabilityMatcher",
+  "registry": "org.openqa.grid.internal.DefaultGridRegistry",
+  "throwOnCapabilityNotPresent": true,
+  "cleanUpCycle": 5000,
+  "role": "hub",
+  "debug": false,
+  "browserTimeout": 0,
+  "timeout": 300000,
+  "nodePolling": 5000,
+  "maxSession": 5
+}

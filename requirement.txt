@@ -1,0 +1,16 @@
+# Framework
+pytest
+pytest-html
+selenium
+pycmd
+pytest-xdist
+humanize
+
+# Reporting
+allure-pytest
+
+# Data Driven
+pandas
+
+# Installing allure commandline
+# https://docs.qameta.io/allure/#_installing_a_commandline

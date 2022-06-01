@@ -1,0 +1,19 @@
+{
+	"patient_info": [{
+			"patient": {
+				"pat_cat": "very_high_risk",
+				"pat_id": "febbc2a2-b98d-4720-b7e5-c73e45594bee",
+				"first_name": "Pascal",
+				"last_name": "Luppitt"
+			}
+		},
+		{
+			"patient": {
+				"pat_cat": "extreme_risk",
+				"pat_id": "0052addd-ecc5-456a-b612-72fc63818f19",
+				"first_name": "Lizbeth",
+				"last_name": "Moir"
+			}
+		}
+	]
+}

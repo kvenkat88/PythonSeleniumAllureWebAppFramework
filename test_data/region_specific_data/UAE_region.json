@@ -1,0 +1,46 @@
+{
+	"state": {
+		"federation": [{
+				"clinic_info": {
+					"partner_name": "mhp",
+					"partner_id": "12345",
+					"clinic_provider_full_name": "MINISTRY OF HEALTH & PREVENTION",
+					"county": "irvine",
+					"area": "17875 Von Karman Avenue Building A, Suite 120",
+					"launch_url": "https://sample.url.com"
+				}
+			},
+			{
+				"clinic_info": {
+					"partner_name": "xxx_rosslyn",
+					"partner_id": "12345",
+					"clinic_provider_full_name": "",
+					"county": "",
+					"area": "",
+					"launch_url": "https://sample.url.com"
+				}
+			}
+		],
+		"abu_dhabi": [{
+				"clinic_info": {
+					"partner_name": "xxx",
+					"partner_id": "12345",
+					"clinic_provider_full_name": "XXXX Solutions",
+					"county": "irvine",
+					"area": "Suite 120",
+					"launch_url": "https://sample.url.com"
+				}
+			},
+			{
+				"clinic_info": {
+					"partner_name": "irvine_rosslyn",
+					"partner_id": "12345",
+					"clinic_provider_full_name": "",
+					"county": "",
+					"area": "",
+					"launch_url": "https://sample.url.com"
+				}
+			}
+		]
+	}
+}
